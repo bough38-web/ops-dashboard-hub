@@ -14,9 +14,9 @@ DASHBOARDS = [
         "status": "ok"
     },
     {
-        "name": "👥 관리고객",
+        "name": "👥 관리고객 및 해지 파이프라인",
         "desc": "핵심 고객 리스트",
-        "url": "https://share.streamlit.io/your-id/dashboard-managed/managed",
+        "url": "https://bough38-web.github.io/retention-dashboard/",
         "roles": ["cs", "sales"],
         "status": "ok"
     },
