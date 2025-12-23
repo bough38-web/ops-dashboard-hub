@@ -30,7 +30,7 @@ DASHBOARDS = [
     {
         "name": "🛡 보안 뉴스",
         "desc": "보안 위협 모니터링",
-        "url": "https://share.streamlit.io/your-id/dashboard-security/security",
+        "url": "https://bough38-web.github.io/security-report/",
         "roles": ["ops", "security"],
         "status": "ok"
     }
