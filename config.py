@@ -21,9 +21,9 @@ DASHBOARDS = [
         "status": "ok"
     },
     {
-        "name": "🔄 해지 파이프라인",
+        "name": "🔄 해지VOC관리",
         "desc": "해지 단계 흐름",
-        "url": "https://share.streamlit.io/your-id/dashboard-churn/churn",
+        "url": "https://bough38-web-haeji-voc-dashboard-voc-dashboard-6rsolh.streamlit.app",
         "roles": ["strategy"],
         "status": "danger"
     },
