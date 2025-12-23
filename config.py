@@ -1,8 +1,8 @@
 DASHBOARDS = [
     {
-        "name": "🛑 정지 관리",
+        "name": "🛑 정지/부실 관리",
         "desc": "정지·휴면 위험 고객",
-        "url": "https://bough38-web.github.io/a-management-dashboard/",
+        "url": "https://a-management-dashboard-6kyyf824usuawa7kdpf4vj.streamlit.app",
         "roles": ["ops", "cs"],
         "status": "warning"
     },
