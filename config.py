@@ -2,7 +2,7 @@ DASHBOARDS = [
     {
         "name": "🛑 정지 관리",
         "desc": "정지·휴면 위험 고객",
-        "url": "https://share.streamlit.io/your-id/dashboard-stop/stop",
+        "url": "https://bough38-web.github.io/a-management-dashboard/",
         "roles": ["ops", "cs"],
         "status": "warning"
     },
