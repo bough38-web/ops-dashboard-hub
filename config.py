@@ -33,5 +33,15 @@ DASHBOARDS = [
         "url": "https://bough38-web.github.io/security-report/",
         "roles": ["ops", "security"],
         "status": "ok"
+    },
+    {
+        "name": "🛡 현업조사(해지사유)",
+        "desc": "해지사유 모니터링",
+        "url": "https://field-survey-app-7spuxqjhxtmtwfsybgtclm.streamlit.app/",
+        "roles": ["ops", "security"],
+        "status": "ok"
     }
 ]
+
+
+
